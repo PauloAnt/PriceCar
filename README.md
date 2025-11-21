@@ -59,5 +59,5 @@ Integração Inter-linguagens: O uso do python-shell permitiu manter o poder do 
 Pipelines: A estruturação do treinamento em Pipelines do Scikit-Learn garantiu que o pré-processamento dos dados de entrada na API fosse idêntico ao dos dados de treino.
 
 
-```markdown
-![Preview do Projeto](./assets/preview.png)
+[```markdown
+![](./assets/preview.png)](https://www.linkedin.com/feed/update/urn:li:activity:7397733918524968961/)
